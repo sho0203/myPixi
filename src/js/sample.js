@@ -19,7 +19,7 @@ export default class Sapmple extends Main {
         //grid間隔
         this.grid_space_x = 30
         this.grid_space_y = 30
-        this.grid_size = 5
+        this.grid_size = 15
 
         this.grids = []
         this.grids_position = []
